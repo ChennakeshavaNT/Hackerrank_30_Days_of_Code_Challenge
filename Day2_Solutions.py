@@ -19,3 +19,4 @@ if __name__ == '__main__':
     tip_percent = int(input())
     tax_percent = int(input())
     solve(meal_cost, tip_percent, tax_percent)
+    #End
