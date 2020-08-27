@@ -10,4 +10,4 @@ for more details regarding the challenge [click here](https://www.hackerrank.com
 
 ### Author: Chennakeshava NT 
 - click here for [Profile](https://www.linkedin.com/in/chennakeshavant/)
-- Contact Details:- [Mail](chennakeshavant@gmail.com)
+- Contact Details:- [chennakeshavant@gmail.com]
